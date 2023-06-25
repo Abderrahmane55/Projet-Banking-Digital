@@ -1,4 +1,8 @@
 Dtos:
+
+les DTOs dans JEE sont des objets utilisés pour transférer des données entre différentes couches de l'application. Ils permettent de simplifier et de définir une structure spécifique des données échangées, en garantissant l'indépendance des données par rapport à leur contexte d'utilisation.
+
+
 ![Screenshot (4)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/d9944ea5-04c9-4ebc-be95-6f4bfd7d8452)
 
 ![Screenshot (5)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/3f19b59c-487d-40a3-a1ad-93e017225789)
