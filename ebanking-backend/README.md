@@ -1,4 +1,4 @@
-#Packages : 
+# Packages : 
 - Dtos:
 
 les DTOs dans JEE sont des objets utilisés pour transférer des données entre différentes couches de l'application. Ils permettent de simplifier et de définir une structure spécifique des données échangées, en garantissant l'indépendance des données par rapport à leur contexte d'utilisation.
