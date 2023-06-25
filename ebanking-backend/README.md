@@ -1,4 +1,4 @@
-Dtos:
+- Dtos:
 
 les DTOs dans JEE sont des objets utilisés pour transférer des données entre différentes couches de l'application. Ils permettent de simplifier et de définir une structure spécifique des données échangées, en garantissant l'indépendance des données par rapport à leur contexte d'utilisation.
 
@@ -18,8 +18,9 @@ les DTOs dans JEE sont des objets utilisés pour transférer des données entre 
 ![Screenshot (10)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/654648ba-9bb3-4b46-8ba3-778f0190a59c)
 ![Screenshot (11)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/7e0d6157-f834-4406-862f-79c9e14d77b8)
 
-Entities:
+- Entities:
 
+le package "Entities" dans JEE regroupe les classes qui représentent les entités métier de l'application, jouant un rôle crucial dans la persistance des données et la gestion des opérations métier.
 
 
 ![Screenshot (12)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/de0b4b76-5108-4ab2-a85e-90126a27fb1b)
@@ -38,7 +39,7 @@ Entities:
 
 ![Screenshot (16)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/1904ebc7-567b-4e5f-9dcc-9d6db6154199)
 
-enums:
+- enums:
 
 ![Screenshot (17)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/6cc3f0fa-b2ed-4de5-b2b4-700fd235a9aa)
 
@@ -46,13 +47,15 @@ enums:
 
 ![Screenshot (18)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/b0d8be4c-4bb0-4a0a-a83b-012b83f340be)
 
-mappers:
+- mappers:
+
+les mappers sont des composants qui permettent de convertir des objets d'un type à un autre, facilitant ainsi le transfert de données entre les différentes couches de l'application. Ils contribuent à maintenir une bonne séparation des préoccupations et améliorent la modularité et la réutilisabilité du code.
 
 ![Screenshot (20)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/a0eaf779-4799-4b3e-ab44-dfc3ad1886dc)
 
-repositories:
+- repositories:
 
-
+Les repositories jouent un rôle crucial dans la gestion des données dans les applications JEE. Ils simplifient l'accès aux données, améliorent la réutilisabilité du code, favorisent la séparation des préoccupations et permettent une meilleure testabilité de l'application.
 
 ![Screenshot (21)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/38724e89-9be6-4a58-a84b-6ff860805563)
 
@@ -62,8 +65,9 @@ repositories:
 
 ![Screenshot (23)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c757b0ac-45f5-4d5c-87dd-6a09cbd4633b)
 
-service:
+- service:
 
+le package "service" dans l'architecture JEE regroupe les classes qui implémentent la logique métier de l'application. Il fournit une couche intermédiaire entre la couche de présentation et la couche d'accès aux données, en encapsulant la logique métier et en orchestrant les différentes opérations nécessaires pour répondre aux demandes des clients.
 
 ![Screenshot (24)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/e8d92dd4-4043-400b-8356-e14f1e09a8f5)
 
@@ -74,7 +78,9 @@ service:
 
 ![Screenshot (26)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c164baf4-cdff-42c7-8ec7-b8550a205b49)
 
-web:
+- web:
+
+le package "web" dans JEE fournit les outils nécessaires pour développer des applications web robustes et dynamiques en utilisant des technologies telles que les servlets, les JSP, la JSTL, l'EL, la gestion des sessions, les filtres et les écouteurs. Il constitue une partie essentielle du développement d'applications web dans l'environnement JEE.
 
 ![Screenshot (27)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/7d625817-f457-4296-8ec0-e3a9836198fb)
 
@@ -82,7 +88,9 @@ web:
 ![Screenshot (28)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/e2eede54-c2e3-4dbb-91e7-f67a060da190)
 
 
-resources:
+- resources:
+
+L'utilisation efficace des resources dans une application JEE contribue à améliorer les performances, la scalabilité et la gestion des ressources. Il est essentiel de configurer et gérer correctement ces resources pour garantir le bon fonctionnement de l'application JEE.
 
 ![Screenshot (29)](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/c56a3d07-af72-4303-93a7-03766cb6fe6e)
 
