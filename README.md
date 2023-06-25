@@ -15,4 +15,4 @@ L'objectif de ce projet est de créer une application de gestion de comptes banc
 # Use-case Digital Banking:
 ![image](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/6164d2af-7e8d-47e7-bc77-f6d45828674b)
 
-![MicrosoftTeams-image (11)](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/fe7f7c65-84b6-4018-966d-a41a7bdc5147)
+
