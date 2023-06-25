@@ -22,8 +22,8 @@
 
 ![class modules](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/1403a636-bf30-460c-8c2d-5c1ce3cc3bbf)
 
-                                                 TESTS:
-
+                                                        TESTS:
+  
 - Customers:
 - 
 ![customers](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/728da460-5b3e-46c0-8d73-99fdc3026b8c)
