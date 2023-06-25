@@ -30,7 +30,15 @@
 - Pour lancer le projet, il suffit d'exécuter la commande 'ng serve' depuis la racine du projet. Cette commande permet de compiler le code source du projet, en transpilant le code TypeScript en JavaScript, tout en démarrant un serveur web local basé sur Node.js pour déployer l'application en local.
 
                                                         TESTS:
-  
+
+
+- Customer Save:
+
+  ![ttttttttttttttttt](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/d45121c1-64cf-4920-bcde-0f763c0004d8)
+
+- Customer successfully saved:
+![mmmmmmmmmmmmmmmmmm](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/d940ecf4-c232-4e24-a132-7f45b154f3b1)
+
 - Customers:
   
 ![customers](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/728da460-5b3e-46c0-8d73-99fdc3026b8c)
