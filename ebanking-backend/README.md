@@ -116,13 +116,21 @@ L'utilisation efficace des resources dans une application JEE contribue à amél
 
 ![4](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/428f5750-8bfe-46ce-9e8e-b50495b8bf67)
 
-Resultats:
+# Resultats:
 
+- Client id numero 1:
+  
 ![5](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/5f4f8405-a72e-41e2-a8e2-4395c1383345)
+
+- La liste des comptes:
 
 ![6](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/9d40ce8c-9d16-4e27-8173-c698f1a1b6f2)
 
+- La liste des operations:
+
 ![7](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/eb3ffff1-b128-43b6-b194-6aa71cea3935)
+
+- Page Operations:
 
 ![8](https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/assets/107000262/ae499c40-794b-4ab5-a0fe-5cf8ff39c26a)
 
