@@ -1,4 +1,5 @@
-- Pour lancer le projet, il suffit d'exécuter la commande 'ng serve' depuis la racine du projet. Cette commande permet de compiler le code source du projet, en transpilant le code TypeScript en JavaScript, tout en démarrant un serveur web local basé sur Node.js pour déployer l'application en local.
+# Projet JEE-Digital-Banking (encadrant : Professeur Mohamed YOUSSFI)
+- La responsabilité de la couche Frontend (Vue) est de construire l'interface utilisateur de l'application. Pour cela, on utilise le framework Angular, qui permet de créer une interface utilisateur dynamique et réactive. Les composants Angular de cette couche interagissent avec la couche Backend pour récupérer les données nécessaires et effectuer les opérations requises.
 
 
 -Générer les composants nécessaires à l'aide de la commande "ng g c navbar":
