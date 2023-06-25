@@ -21,10 +21,10 @@ L'objectif de ce projet est de créer une application de gestion de comptes banc
 
 # Technologies utilisées pour développer l'application :
 
--Backend : Java, Spring Boot, Spring Data JPA, Spring Security, JWT. 
+- Backend : Java, Spring Boot, Spring Data JPA, Spring Security, JWT. 
 
--Frontend : Angular, HTML, CSS, TypeScript. 
+- Frontend : Angular, HTML, CSS, TypeScript. 
 
--Outils de developpement : Maven, Git. 
+- Outils de developpement : Maven, Git. 
 
--Base de données : MySQL.
+- Base de données : MySQL.
