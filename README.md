@@ -1,4 +1,4 @@
-                                             # Projet-Banking-Digital:
+                                              # Projet-Banking-Digital:
 
 - Lien vers [back-end]+Rapport:  https://github.com/Abderrahmane55/Projet-Banking-Digital/tree/main/ebanking-backend
 
