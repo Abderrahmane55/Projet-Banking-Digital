@@ -1,4 +1,4 @@
-# Projet-Banking-Digital:
+                                                    # Projet-Banking-Digital:
 
 L'objectif de ce projet est de créer une application de gestion de comptes bancaires en utilisant le framework Spring Boot. L'application permettra aux utilisateurs de gérer facilement leurs comptes en effectuant des opérations de débit et de crédit, ainsi qu'en consultant les informations relatives à leurs comptes. Le projet est organisé en deux principales composantes : la couche DAO (Data Access Object) qui s'occupe de l'accès aux données, et la couche service qui gère la logique métier, les objets de transfert de données (DTOs) et les contrôleurs REST (RestController).
 
