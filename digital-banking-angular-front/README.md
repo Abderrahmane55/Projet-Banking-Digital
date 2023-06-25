@@ -3,28 +3,28 @@
 - La responsabilité de la couche Frontend (Vue) est de construire l'interface utilisateur de l'application. Pour cela, on utilise le framework Angular, qui permet de créer une interface utilisateur dynamique et réactive. Les composants Angular de cette couche interagissent avec la couche Backend pour récupérer les données nécessaires et effectuer les opérations requises.
 
 
--Générer les composants nécessaires à l'aide de la commande "ng g c navbar":
+- Générer les composants nécessaires à l'aide de la commande "ng g c navbar":
 
 ![image](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/09ce77e7-041f-456f-bf62-8dd5aa843504)
 
 
 
 
-
--Ajouter une barre de navigation:
+ 
+- Ajouter une barre de navigation:
 
 ![app rooting module ](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/c4e040c3-8d6e-4133-b522-9a6303a3223f)
 
 
 
 
--Afficher la liste des clients à l'aide du code HTML:
+- Afficher la liste des clients à l'aide du code HTML:
 
 ![customer components ](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/8190cb15-c243-4861-a181-89a67f5193cc)
 
 
 
--Créer des classes sous le paquet models qui représentent le modèle:
+- Créer des classes sous le paquet models qui représentent le modèle:
 
 ![class modules](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/1403a636-bf30-460c-8c2d-5c1ce3cc3bbf)
 
