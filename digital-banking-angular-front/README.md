@@ -1,3 +1,6 @@
+- Pour lancer le projet, il suffit d'exécuter la commande 'ng serve' depuis la racine du projet. Cette commande permet de compiler le code source du projet, en transpilant le code TypeScript en JavaScript, tout en démarrant un serveur web local basé sur Node.js pour déployer l'application en local.
+
+
 -Générer les composants nécessaires à l'aide de la commande "ng g c navbar":
 
 ![a](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/3cd18726-cfbb-4417-862c-1c076a35b2db)
@@ -21,6 +24,8 @@
 -Créer des classes sous le paquet models qui représentent le modèle:
 
 ![class modules](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/1403a636-bf30-460c-8c2d-5c1ce3cc3bbf)
+
+- Pour lancer le projet, il suffit d'exécuter la commande 'ng serve' depuis la racine du projet. Cette commande permet de compiler le code source du projet, en transpilant le code TypeScript en JavaScript, tout en démarrant un serveur web local basé sur Node.js pour déployer l'application en local.
 
                                                         TESTS:
   
