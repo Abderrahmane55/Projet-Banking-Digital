@@ -3,7 +3,8 @@
 
 -Générer les composants nécessaires à l'aide de la commande "ng g c navbar":
 
-![a](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/3cd18726-cfbb-4417-862c-1c076a35b2db)
+![image](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/09ce77e7-041f-456f-bf62-8dd5aa843504)
+
 
 
 
