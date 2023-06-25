@@ -6,15 +6,20 @@
 
 
 -Ajouter une barre de navigation:
+
 ![app rooting module ](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/c4e040c3-8d6e-4133-b522-9a6303a3223f)
 
 
 
+
 -Afficher la liste des clients à l'aide du code HTML:
+
 ![customer components ](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/8190cb15-c243-4861-a181-89a67f5193cc)
 
 
+
 -Créer des classes sous le paquet models qui représentent le modèle:
+
 ![class modules](https://github.com/Abderrahmane55/Projet-Banking-Digital/assets/107000262/1403a636-bf30-460c-8c2d-5c1ce3cc3bbf)
 
 
